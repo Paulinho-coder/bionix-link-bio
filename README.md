@@ -1,36 +1,46 @@
-# 🔗 Bionix Link Bio
+# Bionix Link na Bio 🔗
 
-Site estilo **“Link na Bio”** totalmente personalizado para divulgar todos os seus canais em um só lugar — ideal para tatuadores, estúdios, criadores e profissionais criativos.
+Projeto de página personalizada estilo **"Link na Bio"**, desenvolvido para criadores, tatuadores e empreendedores que desejam centralizar todos os seus links, destaques e contatos em um único lugar com design moderno e responsivo.
 
-![Capa do projeto](./assets/tatto-minimalista.jpeg)
+![Screenshot do site](./assets/screenshot.jpeg)
 
----
+## 🚀 Acesse o site
 
-## 🎯 Funcionalidades
-
-- Layout 100% responsivo (mobile e desktop)
-- Imagem de perfil e destaques visuais
-- Botões animados com ícones
-- Links personalizados para redes sociais
-- Estilo visual moderno e leve
-- Animações suaves e efeito de clique
-- Pronto para deploy via GitHub Pages
+👉 [bionix-link-bio](https://paulinho-coder.github.io/bionix-link-bio/)
 
 ---
 
-## 🧩 Tecnologias
+## ✨ Funcionalidades
+
+- Perfil com imagem e nome
+- Links personalizados com ícones
+- Seção de destaques com imagens (como tattoos e piercings)
+- Botão de orçamento direto via WhatsApp
+- Ícones de redes sociais
+- Layout 100% responsivo
+- Animações suaves e efeitos de clique
+
+---
+
+## 🧠 Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- JavaScript (leve)
+- JavaScript (básico para interação)
 - Git & GitHub
-- GitHub Pages para deploy
 
 ---
 
-## 🚀 Como usar
+## 🖥️ Captura de tela
 
-1. **Clone o repositório:**
+<img src="./assets/screenshot.jpeg" width="600" alt="Visual do site" />
+
+---
+
+## 🛠️ Como usar
+
+1. Clone este repositório:
    ```bash
    git clone https://github.com/Paulinho-coder/bionix-link-bio.git
+
 
