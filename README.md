@@ -2,7 +2,6 @@
 
 Projeto de página personalizada estilo **"Link na Bio"**, desenvolvido para criadores, tatuadores e empreendedores que desejam centralizar todos os seus links, destaques e contatos em um único lugar com design moderno e responsivo.
 
-![Screenshot do site](./assets/screenshot.jpeg)
 
 ## 🚀 Acesse o site
 
@@ -31,7 +30,7 @@ Projeto de página personalizada estilo **"Link na Bio"**, desenvolvido para cri
 
 ---
 
-## 🖥️ Captura de tela
+Imagem site
 
 <img src="./assets/screenshot.jpeg" width="600" alt="Visual do site" />
 
